@@ -46,3 +46,5 @@ Maven:
 # jar file will out put as ./build/lib/qqwry-java-X.X.X.jar
 ./gradlew jar
 ```
+
+[纯真IP数据库格式详解](https://www.cnblogs.com/kjcy8/p/5787723.html)
